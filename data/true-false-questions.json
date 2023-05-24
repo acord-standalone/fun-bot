@@ -1,0 +1,830 @@
+[
+  {
+    "question": "Dünya'nın en büyük okyanusu Atlas Okyanusu mu?",
+    "answer": true
+  },
+  {
+    "question": "İngiltere, Avrupa kıtasında yer alır mı?",
+    "answer": true
+  },
+  {
+    "question": "İstanbul Türkiye'nin başkenti midir?",
+    "answer": false
+  },
+  {
+    "question": "Ay, Dünya'nın doğal uydusu mudur?",
+    "answer": true
+  },
+  {
+    "question": "Himalayalar Dünya'nın en yüksek dağları mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Eski Mısır'da piramitler inşa edildi mi?",
+    "answer": true
+  },
+  {
+    "question": "Einstein, ünlü bir fizikçi miydi?",
+    "answer": true
+  },
+  {
+    "question": "Japonya, Asya kıtasında yer alır mı?",
+    "answer": true
+  },
+  {
+    "question": "Amazon Nehri dünyanın en uzun nehri midir?",
+    "answer": true
+  },
+  {
+    "question": "Mozart, bir besteci midir?",
+    "answer": true
+  },
+  {
+    "question": "Antarktika Kıtası bir ülkeye ev sahipliği yapar mı?",
+    "answer": false
+  },
+  {
+    "question": "Güneş, evrenin merkezinde bulunan bir yıldız mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Amerika Birleşik Devletleri'nin başkenti Washington, D.C. midir?",
+    "answer": true
+  },
+  {
+    "question": "Çin Seddi, dünyanın en uzun yapısı mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar dinozorlarla aynı dönemde yaşadılar mı?",
+    "answer": false
+  },
+  {
+    "question": "Yıldızlar, kendi ışıklarını üreten cisimler midir?",
+    "answer": true
+  },
+  {
+    "question": "Karanlık çikolata, süt çikolatadan daha az şeker içerir mi?",
+    "answer": true
+  },
+  {
+    "question": "Nijerya, Afrika kıtasının en kalabalık ülkesi midir?",
+    "answer": true
+  },
+  {
+    "question": "Kuzey Kutbu'nda penguenler yaşar mı?",
+    "answer": false
+  },
+  {
+    "question": "Avustralya, bir ada kıtası mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İncil, Hristiyanlar için kutsal bir kitap mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Rusya, iki kıtada yer alan bir ülke midir?",
+    "answer": true
+  },
+  {
+    "question": "Ekvator, Dünya'yı iki eşit parçaya böler mi?",
+    "answer": true
+  },
+  {
+    "question": "Balinalar, memeli hayvanlar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Buzdolabında taze meyve daha hızlı bozulur mu?",
+    "answer": false
+  },
+  {
+    "question": "İspanya, Güney Amerika kıtasında yer alır mı?",
+    "answer": false
+  },
+  {
+    "question": "Eiffel Kulesi, Fransa'nın başkenti Paris'te bulunur mu?",
+    "answer": true
+  },
+  {
+    "question": "Avokado, bir sebze midir?",
+    "answer": false
+  },
+  {
+    "question": "Güney Afrika, Afrika kıtasının en güneyinde yer alır mı?",
+    "answer": true
+  },
+  {
+    "question": "Beethoven, bir besteci midir?",
+    "answer": true
+  },
+  {
+    "question": "Kanarya Adaları, İspanya'ya bağlı bir takımada mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Nil Nehri, Afrika'nın en uzun nehri midir?",
+    "answer": true
+  },
+  {
+    "question": "İtalya, Balkanlar'da yer alır mı?",
+    "answer": false
+  },
+  {
+    "question": "Maymunlar, insanlara genetik olarak en yakın olan hayvanlar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "New York, Amerika Birleşik Devletleri'nin başkenti midir?",
+    "answer": false
+  },
+  {
+    "question": "Mangal, etleri pişirmek için kullanılan bir cihaz mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Rusya'nın sınırları Avrupa ve Asya kıtalarını keser mi?",
+    "answer": true
+  },
+  {
+    "question": "Kehribar, fosilleşmiş ağaç reçinesi midir?",
+    "answer": true
+  },
+  {
+    "question": "Afrika, yedi kıtadan biri midir?",
+    "answer": false
+  },
+  {
+    "question": "Kuzey Kore, Güney Kore'nin başkenti midir?",
+    "answer": false
+  },
+  {
+    "question": "İnsan vücudu yaklaşık olarak %70 sudan oluşur mu?",
+    "answer": true
+  },
+  {
+    "question": "Yunan mitolojisinde Zeus, tanrıların kralı mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Ayakkabılar, ayakları korumak için kullanılan giysiler midir?",
+    "answer": true
+  },
+  {
+    "question": "Arktik Okyanusu, Dünya'nın en küçük okyanusu mudur?",
+    "answer": false
+  },
+  {
+    "question": "Rus ruleti, bir kumar oyunu mudur?",
+    "answer": true
+  },
+  {
+    "question": "Brezilya, Güney Amerika'da yer alan en büyük ülke midir?",
+    "answer": true
+  },
+  {
+    "question": "Porselen, dayanıklı bir seramik malzemesi midir?",
+    "answer": true
+  },
+  {
+    "question": "Galapagos Adaları, Ekvador'a bağlı bir takımada mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Çay, dünyada en çok tüketilen içeceklerden biri midir?",
+    "answer": true
+  },
+  {
+    "question": "İtalya, Roma İmparatorluğu'nun merkezi oldu mu?",
+    "answer": true
+  },
+  {
+    "question": "Hipopotamlar, etobur hayvanlar mıdır?",
+    "answer": false
+  },
+  {
+    "question": "Mars Gezegeni'nde insan yaşamı mümkün müdür?",
+    "answer": false
+  },
+  {
+    "question": "Fransızca, İspanyolca ve İtalyanca aynı dil ailesine ait midir?",
+    "answer": true
+  },
+  {
+    "question": "Dünya'nın en büyük ikinci okyanusu Hint Okyanusu mudur?",
+    "answer": true
+  },
+  {
+    "question": "Timsahlar, suda ve karada yaşayabilen hayvanlar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, baş aşağı durunca daha hızlı kanlanır mı?",
+    "answer": false
+  },
+  {
+    "question": "Sushi, Japonya'ya özgü bir yemek midir?",
+    "answer": true
+  },
+  {
+    "question": "Dinozorlar, şu anda hala yaşayan hayvanlardan biri midir?",
+    "answer": false
+  },
+  {
+    "question": "İngilizce, dünyada en yaygın konuşulan dil midir?",
+    "answer": false
+  },
+  {
+    "question": "Güney Amerika, kuzeyde Kuzey Amerika ile sınır mı paylaşır?",
+    "answer": false
+  },
+  {
+    "question": "Su, renksiz bir sıvı mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Türkiye, Ortadoğu'da yer alır mı?",
+    "answer": true
+  },
+  {
+    "question": "Fransız İhtilali, 18. yüzyılda gerçekleşen bir olay mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Şeker, tatlı bir yiyecek midir?",
+    "answer": true
+  },
+  {
+    "question": "Arjantin, Güney Amerika kıtasında yer alır mı?",
+    "answer": true
+  },
+  {
+    "question": "Piyano, bir çalgı aleti midir?",
+    "answer": true
+  },
+  {
+    "question": "Güney Kutbu'nda penguenler yaşar mı?",
+    "answer": true
+  },
+  {
+    "question": "Uydu, Dünya etrafında dönen bir cisim midir?",
+    "answer": true
+  },
+  {
+    "question": "İtalya, Roma İmparatorluğu'nun başkenti oldu mu?",
+    "answer": true
+  },
+  {
+    "question": "İnsanların DNA'sı hücrelerinde bulunur mu?",
+    "answer": true
+  },
+  {
+    "question": "Mısır, Afrika kıtasında yer alır mı?",
+    "answer": true
+  },
+  {
+    "question": "Vitaminler, vücut için gerekli besin öğeleri midir?",
+    "answer": true
+  },
+  {
+    "question": "Ormanlar, dünyanın en büyük oksijen kaynaklarından biri midir?",
+    "answer": true
+  },
+  {
+    "question": "Aydınlatma için ampul kullanılır mı?",
+    "answer": true
+  },
+  {
+    "question": "Kuzey Amerika, dünyanın en büyük kıtası mıdır?",
+    "answer": false
+  },
+  {
+    "question": "Mozart, ünlü bir besteci midir?",
+    "answer": true
+  },
+  {
+    "question": "Salyangozlar, kabuklu deniz hayvanları mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İngilizce, dünya çapında yaygın olarak konuşulan bir dil midir?",
+    "answer": true
+  },
+  {
+    "question": "İnekler, süt üretimi için yetiştirilen hayvanlar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Himalayalar, dünyanın en yüksek dağ sırası mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Çizgi film, hareketli resimlerden oluşan bir medya türü müdür?",
+    "answer": true
+  },
+  {
+    "question": "Atlantik Okyanusu, Dünya'nın en geniş okyanusu mudur?",
+    "answer": true
+  },
+  {
+    "question": "Güney Afrika, Afrika kıtasının güneyinde yer alır mı?",
+    "answer": true
+  },
+  {
+    "question": "Kamera, fotoğraf çekmek için kullanılan bir cihaz mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Kobra yılanları zehirli midir?",
+    "answer": true
+  },
+  {
+    "question": "Süt, beyaz bir sıvı mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Hindistan, Asya kıtasında yer alır mı?",
+    "answer": true
+  },
+  {
+    "question": "Havanın ısısına termometre ile bakılır mı?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, doğayı korumak için çeşitli önlemler almalı mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Eski Roma'da gladyatörler savaşır mıydı?",
+    "answer": true
+  },
+  {
+    "question": "Bisiklet, insanların ulaşım için kullandığı bir araç mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Şekerlemeler, tatlı atıştırmalıklar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Yüzme, bir spor dalı mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Güney Kutbu'nda ağaçlar yetişer mi?",
+    "answer": false
+  },
+  {
+    "question": "Su buharı, sıvı suyun buharlaşmış hali midir?",
+    "answer": true
+  },
+  {
+    "question": "İngiltere, Avrupa Birliği üyesi bir ülke midir?",
+    "answer": false
+  },
+  {
+    "question": "Güneş, Dünya'nın etrafında döner mi?",
+    "answer": false
+  },
+  {
+    "question": "İspanya, İtalya'ya komşu bir ülke midir?",
+    "answer": false
+  },
+  {
+    "question": "Uzayda ses yayılır mı?",
+    "answer": false
+  },
+  {
+    "question": "Ayakkabılar, ayakları koruyan giysiler midir?",
+    "answer": true
+  },
+  {
+    "question": "Japonya, Asya kıtasının bir parçası mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Elmas, en sert doğal mineral midir?",
+    "answer": true
+  },
+  {
+    "question": "Çay ağacından çay yaprakları elde edilir mi?",
+    "answer": true
+  },
+  {
+    "question": "Mars, Dünya'dan daha büyük bir gezegen midir?",
+    "answer": false
+  },
+  {
+    "question": "Amerika Birleşik Devletleri, Kuzey Amerika'da yer alır mı?",
+    "answer": true
+  },
+  {
+    "question": "Atomlar, maddenin temel yapı taşları mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Ressamlar, sanat eserleri yapmak için boyalar mı kullanır?",
+    "answer": true
+  },
+  {
+    "question": "Rusya, dünyanın en geniş yüz ölçümüne sahip ülkesi midir?",
+    "answer": true
+  },
+  {
+    "question": "Güney Amerika, Amazon Ormanı'na ev sahipliği yapar mı?",
+    "answer": true
+  },
+  {
+    "question": "İnsan vücudu yaklaşık olarak 206 kemikten oluşur mu?",
+    "answer": true
+  },
+  {
+    "question": "Karınca kolonilerinde sadece dişi bireyler mi bulunur?",
+    "answer": false
+  },
+  {
+    "question": "Ekvator, Dünya'yı iki eşit parçaya böler mi?",
+    "answer": true
+  },
+  {
+    "question": "Çöl, çok az yağış alan bir iklim bölgesi midir?",
+    "answer": true
+  },
+  {
+    "question": "İzlanda, Avrupa kıtasında yer alır mı?",
+    "answer": true
+  },
+  {
+    "question": "Güney Afrika, Afrika kıtasının en zengin ülkelerinden biri midir?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, uyku sırasında rüya görür mü?",
+    "answer": true
+  },
+  {
+    "question": "Güney Kore, Kuzey Kore'nin başkenti midir?",
+    "answer": false
+  },
+  {
+    "question": "Elektrik, enerji taşıyan bir akım mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Şemsiye, yağmur yağdığında kullanılan bir aksesuar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İtalya, Venedik Kanalları'yla ünlü müdür?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, fotoğraf çekmek için kameralar mı kullanır?",
+    "answer": true
+  },
+  {
+    "question": "Güneş çiçeği, güneşin doğduğu yöne doğru mı döner?",
+    "answer": true
+  },
+  {
+    "question": "Bira, alkollü bir içecek midir?",
+    "answer": true
+  },
+  {
+    "question": "İngiltere, Büyük Britanya adasında yer alır mı?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, bir yılda kaç mevsim yaşar?",
+    "answer": false
+  },
+  {
+    "question": "Çikolata, kakaodan yapılan bir tatlı mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Güney Amerika, And Dağları'na ev sahipliği yapar mı?",
+    "answer": true
+  },
+  {
+    "question": "Ahtapotlar, çok kollu deniz hayvanları mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İnsan vücudu yaklaşık olarak 60.000 düşünceyle çalışır mı?",
+    "answer": false
+  },
+  {
+    "question": "İtalya, Eiffel Kulesi'ne ev sahipliği yapar mı?",
+    "answer": false
+  },
+  {
+    "question": "Zebra, çizgili bir hayvan mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Elektrikli süpürgeler, temizlik için kullanılan cihazlar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Kelebekler, böceklerin bir türü müdür?",
+    "answer": true
+  },
+  {
+    "question": "Kaktüsler, su depolayabilen bitkiler midir?",
+    "answer": true
+  },
+  {
+    "question": "İspanya, Portekiz'e komşu bir ülke midir?",
+    "answer": true
+  },
+  {
+    "question": "Balina, dünyanın en büyük deniz memelisi midir?",
+    "answer": true
+  },
+  {
+    "question": "Çin Seddi, Çin'in başkenti Pekin'de mi bulunur?",
+    "answer": false
+  },
+  {
+    "question": "İnsanlar, solunum yapmak için akciğerleri kullanır mı?",
+    "answer": true
+  },
+  {
+    "question": "Antik Mısır'da piramitler yapılmış mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, sağ elini kullanmayanlara solak denir mi?",
+    "answer": true
+  },
+  {
+    "question": "Pasifik Okyanusu, Dünya'nın en büyük okyanusu mudur?",
+    "answer": true
+  },
+  {
+    "question": "Amerika Birleşik Devletleri, bir kıtaya yayılmış bir ülke midir?",
+    "answer": false
+  },
+  {
+    "question": "Prensesler, kraliyet ailesinin kızları mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Gitar, telli bir müzik aleti midir?",
+    "answer": true
+  },
+  {
+    "question": "Denizanası, suda yaşayan bir canlı mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Yunan mitolojisinde Poseidon, denizlerin tanrısı mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Örümcekler, böcek yiyen hayvanlar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İspanya, Madrid'de bulunan bir ülke midir?",
+    "answer": true
+  },
+  {
+    "question": "İnsan vücudu, çeşitli organlardan oluşur mu?",
+    "answer": true
+  },
+  {
+    "question": "Balık, suda yaşayan bir hayvan mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Uzay mekiği, astronotların uzaya seyahat etmek için kullandığı bir araç mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Hindistan, dünyanın en kalabalık ülkelerinden biri midir?",
+    "answer": true
+  },
+  {
+    "question": "Çam ağaçları, iğne yapraklı ağaçlar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Beyaz renk, tüm renklerin karışımı mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İtalyan mutfağı, makarna ve pizza gibi yemeklerle ünlü müdür?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, hareket etmek için kasları kullanır mı?",
+    "answer": true
+  },
+  {
+    "question": "Cennet kuşları, renkli tüyleri olan kuşlar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İngiltere, Buckingham Sarayı'na ev sahipliği yapar mı?",
+    "answer": true
+  },
+  {
+    "question": "Gözlük, görme yetisini düzeltmek için kullanılan bir aksesuar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Hindistan, Hint Okyanusu'na kıyısı olan bir ülke midir?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, yemek yemek için ağızlarını kullanır mı?",
+    "answer": true
+  },
+  {
+    "question": "Balerinler, dansçılar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İtalya, Leaning Tower of Pisa'ya ev sahipliği yapar mı?",
+    "answer": true
+  },
+  {
+    "question": "Dünya, Güneş'in etrafında dönen bir gezegen midir?",
+    "answer": true
+  },
+  {
+    "question": "Çin, Çin Seddi'ne ev sahipliği yapar mı?",
+    "answer": true
+  },
+  {
+    "question": "Tırtıllar, kelebeklerin larva evresi midir?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, konuşmak için dillerini kullanır mı?",
+    "answer": true
+  },
+  {
+    "question": "Rusya, Asya ve Avrupa kıtalarına yayılmış bir ülke midir?",
+    "answer": true
+  },
+  {
+    "question": "Şemsiyeler, güneşten korunmak için kullanılır mı?",
+    "answer": true
+  },
+  {
+    "question": "Kobra yılanları, zehirli yılanlar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İnsan vücudu, trilyonlarca hücreden oluşur mu?",
+    "answer": true
+  },
+  {
+    "question": "Yunan mitolojisinde Athena, bilgeliğin tanrıçası mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İngiltere, Big Ben saat kulesine ev sahipliği yapar mı?",
+    "answer": true
+  },
+  {
+    "question": "Amazon Nehri, dünyanın en uzun nehri midir?",
+    "answer": false
+  },
+  {
+    "question": "Yelkenliler, rüzgarın gücüyle hareket eden tekneler midir?",
+    "answer": true
+  },
+  {
+    "question": "Dünya, düz bir yüzeye sahip midir?",
+    "answer": false
+  },
+  {
+    "question": "İnsanlar, yemek yemek için çatal ve bıçak mı kullanır?",
+    "answer": true
+  },
+  {
+    "question": "Karate, bir dövüş sanatı mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, nefes almak için akciğerlerini kullanır mı?",
+    "answer": true
+  },
+  {
+    "question": "Japonya, Fuji Dağı'na ev sahipliği yapar mı?",
+    "answer": true
+  },
+  {
+    "question": "Kuzey Kutbu'nda penguenler yaşar mı?",
+    "answer": false
+  },
+  {
+    "question": "İngiltere, Stonehenge'a ev sahipliği yapar mı?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, düşünmek için beyinlerini kullanır mı?",
+    "answer": true
+  },
+  {
+    "question": "Güneş, evrenin merkezi midir?",
+    "answer": false
+  },
+  {
+    "question": "Ay, Dünya'nın yörüngesinde döner mi?",
+    "answer": true
+  },
+  {
+    "question": "İtalya, Roma'yı içerir mi?",
+    "answer": true
+  },
+  {
+    "question": "Karpuz, yaz aylarında tüketilen bir meyve midir?",
+    "answer": true
+  },
+  {
+    "question": "Amerika Birleşik Devletleri, Beyaz Saray'a ev sahipliği yapar mı?",
+    "answer": true
+  },
+  {
+    "question": "Çöl, çok az bitki örtüsüne sahip bir bölge midir?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, uyumak için yastık kullanır mı?",
+    "answer": true
+  },
+  {
+    "question": "Güney Amerika, Machu Picchu'ya ev sahipliği yapar mı?",
+    "answer": true
+  },
+  {
+    "question": "Böcekler, altı bacaklı hayvanlar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, duymak için kulaklarını kullanır mı?",
+    "answer": true
+  },
+  {
+    "question": "Pusula, yön bulmak için kullanılan bir araç mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İngiltere, Liverpool şehrine ev sahipliği yapar mı?",
+    "answer": true
+  },
+  {
+    "question": "Güneş, Dünya'nın etrafında döner mi?",
+    "answer": false
+  },
+  {
+    "question": "İnsan vücudu, yaklaşık olarak 640 kas içerir mi?",
+    "answer": true
+  },
+  {
+    "question": "Çay, çay yaprağından elde edilen bir içecek midir?",
+    "answer": true
+  },
+  {
+    "question": "Afrika, Nil Nehri'ne ev sahipliği yapar mı?",
+    "answer": true
+  },
+  {
+    "question": "Martılar, deniz kıyılarında yaşayan kuşlar mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İnsanlar, spor yapmak için spor ayakkabılar mı kullanır?",
+    "answer": true
+  },
+  {
+    "question": "Köpekler, insanların en yakın evcil hayvanları mıdır?",
+    "answer": true
+  },
+  {
+    "question": "Otobüs, insanların toplu taşıma için kullandığı bir araç mıdır?",
+    "answer": true
+  },
+  {
+    "question": "İtalya, Floransa'da bulunan bir ülke midir?",
+    "answer": false
+  },
+  {
+    "question": "Güney Kutbu'nda palmiye ağaçları yetişer mi?",
+    "answer": false
+  },
+  {
+    "question": "İnsanlar, güneş gözlüğü takarak gözlerini korur mu?",
+    "answer": true
+  },
+  {
+    "question": "Karıncalar, toplu halde yaşayan böcekler midir?",
+    "answer": true
+  }
+]

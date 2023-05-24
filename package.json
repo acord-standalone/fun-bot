@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mostfeatured/dbi": "^0.0.74",
+    "discord.js": "^14.11.0",
+    "dot-env": "^0.0.1",
+    "dotenv": "^16.0.3"
+  }
+}
